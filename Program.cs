@@ -17,7 +17,7 @@ namespace ResponsiPemrograman2606
             karyawan1.DataKaryawan();
             karyawan2.DataKaryawan();
             Console.WriteLine();
-            Console.WriteLine("Asyiiiiik kenaikan gaji 10 %");
+            Console.WriteLine(" kenaikan gaji 10 %");
             Console.WriteLine();
             karyawan1.NaikGaji();
             karyawan2.NaikGaji();
